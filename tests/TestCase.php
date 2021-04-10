@@ -2,40 +2,32 @@
 
 namespace Lemaur\Sitemap\Tests;
 
+use Carbon\Carbon;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
 use Lemaur\Sitemap\SitemapServiceProvider;
+use Spatie\Snapshots\MatchesSnapshots;
 
 class TestCase extends Orchestra
 {
+    use MatchesSnapshots;
+
+    protected Carbon $now;
+
     public function setUp(): void
     {
         parent::setUp();
 
-        Factory::guessFactoryNamesUsing(
-            fn (string $modelName) => 'Spatie\\Sitemap\\Database\\Factories\\'.class_basename($modelName).'Factory'
-        );
+        $this->now = Carbon::create('2016', '1', '1', '0', '0', '0');
+
+        Carbon::setTestNow($this->now);
     }
 
-    protected function getPackageProviders($app)
+    protected function getPackageProviders($app): array
     {
         return [
             SitemapServiceProvider::class,
+            \Spatie\Sitemap\SitemapServiceProvider::class,
         ];
-    }
-
-    public function getEnvironmentSetUp($app)
-    {
-        $app['config']->set('database.default', 'sqlite');
-        $app['config']->set('database.connections.sqlite', [
-            'driver' => 'sqlite',
-            'database' => ':memory:',
-            'prefix' => '',
-        ]);
-
-        /*
-        include_once __DIR__.'/../database/migrations/create_laravel_image_sitemap_table.php.stub';
-        (new \CreatePackageTable())->up();
-        */
     }
 }
