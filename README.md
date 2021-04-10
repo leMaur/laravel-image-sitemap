@@ -1,8 +1,8 @@
 # Generate sitemaps with images
 
-[![Latest Stable Version](https://poser.pugx.org/lemaur/eloquent-publishing/v)](//packagist.org/packages/lemaur/eloquent-publishing)
-[![Total Downloads](https://poser.pugx.org/lemaur/eloquent-publishing/downloads)](//packagist.org/packages/lemaur/eloquent-publishing)
-[![License](https://poser.pugx.org/lemaur/eloquent-publishing/license)](//packagist.org/packages/lemaur/eloquent-publishing)
+[![Latest Stable Version](https://poser.pugx.org/lemaur/laravel-image-sitemap/v)](//packagist.org/packages/lemaur/laravel-image-sitemap)
+[![Total Downloads](https://poser.pugx.org/lemaur/laravel-image-sitemap/downloads)](//packagist.org/packages/lemaur/laravel-image-sitemap)
+[![License](https://poser.pugx.org/lemaur/laravel-image-sitemap/license)](//packagist.org/packages/lemaur/laravel-image-sitemap)
 [![Tests](https://github.com/leMaur/laravel-image-sitemap/actions/workflows/run-tests.yml/badge.svg)](https://github.com/leMaur/laravel-image-sitemap/actions/workflows/run-tests.yml)
 [![Code Style](https://github.com/leMaur/laravel-image-sitemap/actions/workflows/php-cs-fixer.yml/badge.svg)](https://github.com/leMaur/laravel-image-sitemap/actions/workflows/php-cs-fixer.yml)
 [![Treeware](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Treeware&query=%24.total&url=https%3A%2F%2Fpublic.offset.earth%2Fusers%2Ftreeware%2Ftrees)](https://treeware.earth)
