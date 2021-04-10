@@ -2,7 +2,6 @@
 
 namespace Lemaur\Sitemap;
 
-use Lemaur\Sitemap\Commands\SitemapCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
 
