@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Lemaur\Sitemap\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class SitemapCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'laravel_image_sitemap';
 
     public $description = 'My command';
 
