@@ -3,9 +3,8 @@
 namespace Lemaur\Sitemap\Tests;
 
 use Carbon\Carbon;
-use Illuminate\Database\Eloquent\Factories\Factory;
-use Orchestra\Testbench\TestCase as Orchestra;
 use Lemaur\Sitemap\SitemapServiceProvider;
+use Orchestra\Testbench\TestCase as Orchestra;
 use Spatie\Snapshots\MatchesSnapshots;
 
 class TestCase extends Orchestra
