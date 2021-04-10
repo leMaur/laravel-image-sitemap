@@ -1,9 +1,11 @@
 # Generate sitemaps with images
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/lemaur/laravel_image_sitemap.svg?style=flat-square)](https://packagist.org/packages/lemaur/laravel_image_sitemap)
-[![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/lemaur/laravel_image_sitemap/run-tests?label=tests)](https://github.com/lemaur/laravel_image_sitemap/actions?query=workflow%3Arun-tests+branch%3Amaster)
-[![GitHub Code Style Action Status](https://img.shields.io/github/workflow/status/lemaur/laravel_image_sitemap/Check%20&%20fix%20styling?label=code%20style)](https://github.com/lemaur/laravel_image_sitemap/actions?query=workflow%3A"Check+%26+fix+styling"+branch%3Amaster)
-[![Total Downloads](https://img.shields.io/packagist/dt/lemaur/laravel_image_sitemap.svg?style=flat-square)](https://packagist.org/packages/lemaur/laravel_image_sitemap)
+[![Latest Stable Version](https://poser.pugx.org/lemaur/eloquent-publishing/v)](//packagist.org/packages/lemaur/eloquent-publishing)
+[![Total Downloads](https://poser.pugx.org/lemaur/eloquent-publishing/downloads)](//packagist.org/packages/lemaur/eloquent-publishing)
+[![License](https://poser.pugx.org/lemaur/eloquent-publishing/license)](//packagist.org/packages/lemaur/eloquent-publishing)
+[![Tests](https://github.com/leMaur/laravel-image-sitemap/actions/workflows/run-tests.yml/badge.svg)](https://github.com/leMaur/laravel-image-sitemap/actions/workflows/run-tests.yml)
+[![Code Style](https://github.com/leMaur/laravel-image-sitemap/actions/workflows/php-cs-fixer.yml/badge.svg)](https://github.com/leMaur/laravel-image-sitemap/actions/workflows/php-cs-fixer.yml)
+[![Treeware](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Treeware&query=%24.total&url=https%3A%2F%2Fpublic.offset.earth%2Fusers%2Ftreeware%2Ftrees)](https://treeware.earth)
 
 This package can generate a sitemap with images according to [Google Specifications](https://developers.google.com/search/docs/advanced/sitemaps/image-sitemaps).
 
@@ -81,3 +83,9 @@ Please review [our security policy](../../security/policy) on how to report secu
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
+
+## Treeware
+
+If you use it in production, then I ask that you [**buy the world a tree**](https://plant.treeware.earth/leMaur/laravel-image-sitemap) to thank me for my work. By contributing to the Treeware forest you’ll be creating employment for local families and restoring wildlife habitats.
+
+Read more about [Treeware](https://treeware.earth).
