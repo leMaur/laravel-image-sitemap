@@ -1,10 +1,13 @@
 {
-    "name": "lemaur/laravel_image_sitemap",
+    "name": "lemaur/laravel-image-sitemap",
     "description": "Sitemap with images",
     "keywords": [
         "lemaur",
         "laravel",
-        "laravel_image_sitemap"
+        "laravel-image-sitemap",
+        "sitemap",
+        "seo",
+        "google"
     ],
     "homepage": "https://github.com/lemaur/laravel_image_sitemap",
     "license": "MIT",
