@@ -5,12 +5,34 @@
 [![License](https://poser.pugx.org/lemaur/laravel-image-sitemap/license)](//packagist.org/packages/lemaur/laravel-image-sitemap)
 [![Tests](https://github.com/leMaur/laravel-image-sitemap/actions/workflows/run-tests.yml/badge.svg)](https://github.com/leMaur/laravel-image-sitemap/actions/workflows/run-tests.yml)
 [![Code Style](https://github.com/leMaur/laravel-image-sitemap/actions/workflows/php-cs-fixer.yml/badge.svg)](https://github.com/leMaur/laravel-image-sitemap/actions/workflows/php-cs-fixer.yml)
-[![Treeware](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Treeware&query=%24.total&url=https%3A%2F%2Fpublic.offset.earth%2Fusers%2Ftreeware%2Ftrees)](https://treeware.earth)
+[![Trees](https://img.shields.io/badge/dynamic/json?color=brightgreen&style=flat-square&label=Trees&query=%24.total&url=https%3A%2F%2Fpublic.offset.earth%2Fusers%2Flemaur%2Ftrees)]()
+
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/lemaur/laravel-image-sitemap.svg?style=flat-square)](https://packagist.org/packages/lemaur/laravel-image-sitemap)
+[![Total Downloads](https://img.shields.io/packagist/dt/lemaur/laravel-image-sitemap.svg?style=flat-square)](https://packagist.org/packages/lemaur/laravel-image-sitemap)
+[![License](https://img.shields.io/packagist/l/lemaur/laravel-image-sitemap.svg?style=flat-square&color=yellow)](https://github.com/leMaur/laravel-image-sitemap/blob/master/LICENSE.md)
+[![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/lemaur/laravel-image-sitemap/run-tests?label=tests&style=flat-square)](https://github.com/lemaur/laravel-image-sitemap/actions?query=workflow%3Arun-tests+branch%3Amaster)
+[![GitHub Code Style Action Status](https://img.shields.io/github/workflow/status/lemaur/laravel-image-sitemap/Check%20&%20fix%20styling?label=code%20style&style=flat-square)](https://github.com/lemaur/laravel-image-sitemap/actions?query=workflow%3A"Check+%26+fix+styling"+branch%3Amaster)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/lemaur?style=flat-square&color=ea4aaa)](https://github.com/sponsors/leMaur)
+[![Trees](https://img.shields.io/badge/dynamic/json?color=yellowgreen&style=flat-square&label=Trees&query=%24.total&url=https%3A%2F%2Fpublic.offset.earth%2Fusers%2Flemaur%2Ftrees)](https://ecologi.com/lemaur?r=6012e849de97da001ddfd6c9)
 
 This package can generate a sitemap with images according to [Google Specifications](https://developers.google.com/search/docs/advanced/sitemaps/image-sitemaps).
 
 It's basically built on top of [Spatie's laravel-sitemap](https://github.com/spatie/laravel-sitemap).
 The reason why I create it, it's because Spatie doesn't plan to add this functionality to his own package ([see here for more info](https://github.com/spatie/laravel-sitemap/pull/291#issuecomment-579476206)).
+
+## Support Me
+
+Hey folks,
+
+Do you like this package? Do you find it useful and it fits well in your project?
+
+I am glad to help you, and I would be so grateful if you considered supporting my work.
+
+You can even choose 😃:
+* You can [sponsor me 😎](https://github.com/sponsors/leMaur) with a monthly subscription.
+* You can [buy me a coffee ☕ or a pizza 🍕](https://github.com/sponsors/leMaur?frequency=one-time&sponsor=leMaur) just for this package.
+* You can [plant trees 🌴](https://ecologi.com/lemaur?r=6012e849de97da001ddfd6c9). By using this link we will both receive 30 trees for free and the planet (and me) will thank you. 
+* You can "Star ⭐" this repository (it's free 😉).
 
 ## Installation
 
