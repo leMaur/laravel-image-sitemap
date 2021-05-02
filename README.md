@@ -1,12 +1,5 @@
 # Generate sitemaps with images
 
-[![Latest Stable Version](https://poser.pugx.org/lemaur/laravel-image-sitemap/v)](//packagist.org/packages/lemaur/laravel-image-sitemap)
-[![Total Downloads](https://poser.pugx.org/lemaur/laravel-image-sitemap/downloads)](//packagist.org/packages/lemaur/laravel-image-sitemap)
-[![License](https://poser.pugx.org/lemaur/laravel-image-sitemap/license)](//packagist.org/packages/lemaur/laravel-image-sitemap)
-[![Tests](https://github.com/leMaur/laravel-image-sitemap/actions/workflows/run-tests.yml/badge.svg)](https://github.com/leMaur/laravel-image-sitemap/actions/workflows/run-tests.yml)
-[![Code Style](https://github.com/leMaur/laravel-image-sitemap/actions/workflows/php-cs-fixer.yml/badge.svg)](https://github.com/leMaur/laravel-image-sitemap/actions/workflows/php-cs-fixer.yml)
-[![Trees](https://img.shields.io/badge/dynamic/json?color=brightgreen&style=flat-square&label=Trees&query=%24.total&url=https%3A%2F%2Fpublic.offset.earth%2Fusers%2Flemaur%2Ftrees)]()
-
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/lemaur/laravel-image-sitemap.svg?style=flat-square)](https://packagist.org/packages/lemaur/laravel-image-sitemap)
 [![Total Downloads](https://img.shields.io/packagist/dt/lemaur/laravel-image-sitemap.svg?style=flat-square)](https://packagist.org/packages/lemaur/laravel-image-sitemap)
 [![License](https://img.shields.io/packagist/l/lemaur/laravel-image-sitemap.svg?style=flat-square&color=yellow)](https://github.com/leMaur/laravel-image-sitemap/blob/master/LICENSE.md)
