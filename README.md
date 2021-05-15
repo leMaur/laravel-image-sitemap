@@ -98,9 +98,3 @@ Please review [our security policy](../../security/policy) on how to report secu
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
-
-## Treeware
-
-If you use it in production, then I ask that you [**buy the world a tree**](https://plant.treeware.earth/leMaur/laravel-image-sitemap) to thank me for my work. By contributing to the Treeware forest you’ll be creating employment for local families and restoring wildlife habitats.
-
-Read more about [Treeware](https://treeware.earth).
